@@ -1,6 +1,6 @@
 # CFA Level I Study Notes
 
-Independent, self-authored summaries prepared while studying the CFA Level I curriculum.
+Self authored summaries prepared while studying the CFA Level I curriculum.
 
 ## Topics
 
@@ -17,7 +17,7 @@ Independent, self-authored summaries prepared while studying the CFA Level I cur
 
 ## Important notice
 
-These are personal study notes authored by Luis Berruguete. They are unofficial, may contain errors or omissions, and are not a substitute for the current CFA Program curriculum or official CFA Institute materials.
+These are personal study notes authored by me. They are unofficial, may contain errors or omissions, and are not a substitute for the current CFA Program curriculum or official CFA Institute materials.
 
 CFA Institute does not endorse, promote, review, or warrant the accuracy or quality of this repository. CFA® and Chartered Financial Analyst® are trademarks owned by CFA Institute.
 
