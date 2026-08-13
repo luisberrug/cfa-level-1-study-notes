@@ -10,6 +10,7 @@ Independent, self-authored summaries prepared while studying the CFA Level I cur
 - [Economics](notes/Economics.pdf)
 - [Equity Investments](notes/Equity_Investments.pdf)
 - [Ethical and Professional Standards](notes/Ethical_and_Professional_Standards.pdf)
+- [Financial Statement Analysis](notes/Financial_Statements.pdf)
 - [Fixed Income](notes/Fixed_Income.pdf)
 - [Portfolio Management](notes/Portfolio_Management.pdf)
 - [Quantitative Methods](notes/Quantitative_Methods.pdf)
